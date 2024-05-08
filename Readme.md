@@ -3,4 +3,4 @@ This is a fork of
 that adds support for:
 
 - build with qt4 and qt5
-- uncrustify 0.75.1
+- uncrustify 0.78.1
